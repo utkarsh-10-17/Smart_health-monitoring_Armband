@@ -1,0 +1,21 @@
+# ESP32 (Arduino IDE)
+WiFi.h
+PubSubClient.h
+Adafruit PN532
+MPU6050
+MAX3010x
+TinyGPS++
+
+# Raspberry Pi / Edge server (Python)
+paho-mqtt
+boto3
+numpy
+json
+datetime
+
+# Dashboard (Python)
+streamlit
+pandas
+plotly
+boto3
+numpy
