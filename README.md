@@ -8,8 +8,6 @@ Built using:
 - **AWS DynamoDB**: Cloud-based storage of processed data
 - **Streamlit Dashboard**: For real-time data visualization
 
-Developed as a minor project for B.Tech (ECE - IoT specialization) at **IIIT Nagpur**.
-
 ---
 
 ## 📌 Project Overview
